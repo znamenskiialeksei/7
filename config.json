@@ -1,298 +1,297 @@
 {
-    "github": {
-      "username": "znamenskiialeksei",
-      "repo": "7"
-    },
-    "globalSettings": {
-      "pageTitle": "Новая страница"
-    },
-    "layout": {
-      "header": {
-        "content": "<h1>Заголовок</h1>",
-        "background": {
-          "type": "color",
-          "value": "#34495e"
-        },
-        "styles": {
-          "color": "#ffffff",
-          "padding": "20px",
-          "textAlign": "center"
-        }
+  "github": {
+    "username": "znamenskiialeksei",
+    "repo": "7"
+  },
+  "globalSettings": {
+    "pageTitle": "Новая страница"
+  },
+  "layout": {
+    "header": {
+      "content": "<h1>Наши лучшие яхтенные маршруты в Мармарисе. Аренда яхты.</h1>",
+      "background": {
+        "type": "color",
+        "value": "#34495e"
       },
-      "main": {
-        "columns": [
+      "styles": {
+        "color": "#ffffff",
+        "padding": "20px",
+        "textAlign": "center"
+      }
+    },
+    "main": {
+      "columns": [
+        {
+          "id": "col-1",
+          "width": "30%",
+          "elements": [
+            "el-1757113231718",
+            "el-1757110699128",
+            "el-1757109752168",
+            "el-1757104459496",
+            "el-1",
+            "el-1757102225175",
+            "el-1757101328875",
+            "el-1757101233508"
+          ]
+        },
+        {
+          "id": "col-1757099308837",
+          "width": "30%",
+          "elements": [
+            "el-1757099242581",
+            "el-1757110523004"
+          ]
+        },
+        {
+          "id": "col-1757099314077",
+          "width": "30%",
+          "elements": [
+            "el-1757109785397",
+            "el-1757109663931",
+            "el-1757099257779"
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "content": "<p>Подвал сайта</p>",
+      "background": {
+        "type": "color",
+        "value": "#34495e"
+      },
+      "styles": {
+        "color": "#ecf0f1",
+        "padding": "15px",
+        "textAlign": "center"
+      }
+    }
+  },
+  "elements": [
+    {
+      "id": "el-1",
+      "adminTitle": "Стартовый блок",
+      "type": "textBlock",
+      "content": {
+        "html": "<h2>Добро пожаловать!</h2><p>Это ваш новый холст. Начните редактирование в админ-панели.</p>"
+      },
+      "styles": {
+        "padding": "20px",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    {
+      "id": "el-1757099242581",
+      "adminTitle": "Новый externalBlock",
+      "type": "externalBlock",
+      "content": {
+        "url": "https://znamenskiialeksei.github.io/marmarisyachting/2RouteVasilisa.html"
+      },
+      "styles": {
+        "width": "393.22px",
+        "height": "688.095px"
+      }
+    },
+    {
+      "id": "el-1757099257779",
+      "adminTitle": "Новый button",
+      "type": "button",
+      "content": {
+        "text": "Кнопка",
+        "hasDropdown": true,
+        "dropdownItems": [
           {
-            "id": "col-1",
-            "width": "30%",
-            "elements": [
-              "el-1757113231718",
-              "el-1757110699128",
-              "el-1757109752168",
-              "el-1757104459496",
-              "el-1",
-              "el-1757102225175",
-              "el-1757101328875",
-              "el-1757101233508"
-            ]
+            "label": "т",
+            "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
           },
           {
-            "id": "col-1757099308837",
-            "width": "30%",
-            "elements": [
-              "el-1757099242581",
-              "el-1757110523004"
-            ]
+            "label": "в",
+            "url": "https://wa.me/905366140347?text=Здравствуйте!%20Интересует%20бронирование."
           },
           {
-            "id": "col-1757099314077",
-            "width": "30%",
-            "elements": [
-              "el-1757109785397",
-              "el-1757109663931",
-              "el-1757099257779"
-            ]
+            "label": "и",
+            "url": "https://www.instagram.com/reel/DIom5WzibId/?igsh=MTRsYnl4dXlpdTQ1MA=="
+          },
+          {
+            "label": "ф",
+            "url": "https://script.google.com/macros/s/AKfycbw_zW9cCs6adluPNaVVm6spv16UwmQ4vAvvFSo5cenzsE8kpJnBAyktHy4zZaIeac_-VA/exec?page=route2"
+          },
+          {
+            "label": "360",
+            "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
+          },
+          {
+            "label": "выход",
+            "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
+          },
+          {
+            "label": "ют",
+            "url": "https://www.youtube.com/embed/Dp2g78eqw18"
+          },
+          {
+            "label": "обзор",
+            "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQRmfHoOiJ0USI41R15PiRxPAS3q42tuZDyBnREAIy_J2-0"
+          },
+          {
+            "label": "мар2",
+            "url": "https://www.marmarisyachting.ru/Yacht-Vasilisa-Catalog/Route2"
           }
         ]
       },
-      "footer": {
-        "content": "<p>Подвал сайта</p>",
-        "background": {
-          "type": "color",
-          "value": "#34495e"
-        },
-        "styles": {
-          "color": "#ecf0f1",
-          "padding": "15px",
-          "textAlign": "center"
-        }
+      "styles": {
+        "padding": "15px",
+        "backgroundColor": "#abc3d3",
+        "color": "#ffffff",
+        "border": "none",
+        "cursor": "pointer",
+        "width": "89.6298px",
+        "height": "53.5621px",
+        "borderRadius": "8px",
+        "boxShadow": "2px"
+      },
+      "label": "мар2",
+      "url": "https://www.marmarisyachting.ru/Yacht-Vasilisa-Catalog/Route2"
+    },
+    {
+      "id": "el-1757101233508",
+      "adminTitle": "Новый externalBlock",
+      "type": "externalBlock",
+      "content": {
+        "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
+      },
+      "styles": {}
+    },
+    {
+      "id": "el-1757101328875",
+      "adminTitle": "Новый videoBlock",
+      "type": "videoBlock",
+      "content": {
+        "url": "https://www.youtube.com/embed/Dp2g78eqw18"
+      },
+      "styles": {}
+    },
+    {
+      "id": "el-1757102225175",
+      "adminTitle": "Новый videoBlock",
+      "type": "videoBlock",
+      "content": {
+        "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
+      },
+      "styles": {
+        "width": "315.839px",
+        "height": "195.238px"
       }
     },
-    "elements": [
-      {
-        "id": "el-1",
-        "adminTitle": "Стартовый блок",
-        "type": "textBlock",
-        "content": {
-          "html": "<h2>Добро пожаловать!</h2><p>Это ваш новый холст. Начните редактирование в админ-панели.</p>"
-        },
-        "styles": {
-          "padding": "20px",
-          "backgroundColor": "#ffffff"
-        }
+    {
+      "id": "el-1757104459496",
+      "adminTitle": "Новый photo",
+      "type": "photo",
+      "content": {
+        "url": "https://1drv.ms/i/c/2919ff56cb24dc70/IQS4SlSP1EukT49NhIfzIy6sAcsaeHHgAgI8L_4fZWN5eek?action=embedview"
       },
-      {
-        "id": "el-1757099242581",
-        "adminTitle": "Новый externalBlock",
-        "type": "externalBlock",
-        "content": {
-          "url": "https://znamenskiialeksei.github.io/marmarisyachting/2RouteVasilisa.html"
-        },
-        "styles": {
-          "width": "393.22px",
-          "height": "688.095px"
-        }
-      },
-      {
-        "id": "el-1757099257779",
-        "adminTitle": "Новый button",
-        "type": "button",
-        "content": {
-          "text": "Кнопка",
-          "hasDropdown": true,
-          "dropdownItems": [
-            {
-              "label": "т",
-              "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
-            },
-            {
-              "label": "в",
-              "url": "https://wa.me/905366140347?text=Здравствуйте!%20Интересует%20бронирование."
-            },
-            {
-              "label": "и",
-              "url": "https://www.instagram.com/reel/DIom5WzibId/?igsh=MTRsYnl4dXlpdTQ1MA=="
-            },
-            {
-              "label": "ф",
-              "url": "https://script.google.com/macros/s/AKfycbw_zW9cCs6adluPNaVVm6spv16UwmQ4vAvvFSo5cenzsE8kpJnBAyktHy4zZaIeac_-VA/exec?page=route2"
-            },
-            {
-              "label": "360",
-              "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
-            },
-            {
-              "label": "выход",
-              "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
-            },
-            {
-              "label": "ют",
-              "url": "https://www.youtube.com/embed/Dp2g78eqw18"
-            },
-            {
-              "label": "обзор",
-              "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQRmfHoOiJ0USI41R15PiRxPAS3q42tuZDyBnREAIy_J2-0"
-            },
-            {
-              "label": "мар2",
-              "url": "https://www.marmarisyachting.ru/Yacht-Vasilisa-Catalog/Route2"
-            }
-          ]
-        },
-        "styles": {
-          "padding": "15px",
-          "backgroundColor": "#abc3d3",
-          "color": "#ffffff",
-          "border": "none",
-          "cursor": "pointer",
-          "width": "89.6298px",
-          "height": "53.5621px",
-          "borderRadius": "8px",
-          "boxShadow": "2px"
-        },
-        "label": "мар2",
-        "url": "https://www.marmarisyachting.ru/Yacht-Vasilisa-Catalog/Route2"
-      },
-      {
-        "id": "el-1757101233508",
-        "adminTitle": "Новый externalBlock",
-        "type": "externalBlock",
-        "content": {
-          "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
-        },
-        "styles": {}
-      },
-      {
-        "id": "el-1757101328875",
-        "adminTitle": "Новый videoBlock",
-        "type": "videoBlock",
-        "content": {
-          "url": "https://www.youtube.com/embed/Dp2g78eqw18"
-        },
-        "styles": {}
-      },
-      {
-        "id": "el-1757102225175",
-        "adminTitle": "Новый videoBlock",
-        "type": "videoBlock",
-        "content": {
-          "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
-        },
-        "styles": {
-          "width": "315.839px",
-          "height": "195.238px"
-        }
-      },
-      {
-        "id": "el-1757104459496",
-        "adminTitle": "Новый photo",
-        "type": "photo",
-        "content": {
-          "url": "https://1drv.ms/i/c/2919ff56cb24dc70/IQS4SlSP1EukT49NhIfzIy6sAcsaeHHgAgI8L_4fZWN5eek?action=embedview"
-        },
-        "styles": {
-          "width": "393.22px",
-          "height": "211.31px"
-        }
-      },
-      {
-        "id": "el-1757109663931",
-        "adminTitle": "Новый reels",
-        "type": "reels",
-        "content": {
-          "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
-        },
-        "styles": {
-          "aspectRatio": "1/1"
-        }
-      },
-      {
-        "id": "el-1757109752168",
-        "adminTitle": "Новый videoBlock",
-        "type": "videoBlock",
-        "content": {
-          "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
-        },
-        "styles": {}
-      },
-      {
-        "id": "el-1757109785397",
-        "adminTitle": "Новый externalBlock",
-        "type": "externalBlock",
-        "content": {
-          "url": "https://znamenskiialeksei.github.io/marmarisyachting/2RouteVasilisa.html"
-        },
-        "styles": {
-          "width": "397.684px",
-          "height": "515.476px"
-        }
-      },
-      {
-        "id": "el-1757110523004",
-        "adminTitle": "Новый button",
-        "type": "button",
-        "content": {
-          "text": "Кнопка",
-          "hasDropdown": true,
-          "dropdownItems": [
-            {
-              "label": "Новый пункт",
-              "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
-            },
-            {
-              "label": "Новый пункт",
-              "url": "https://script.google.com/macros/s/AKfycbw_zW9cCs6adluPNaVVm6spv16UwmQ4vAvvFSo5cenzsE8kpJnBAyktHy4zZaIeac_-VA/exec?page=route2"
-            },
-            {
-              "label": "Новый пункт",
-              "url": "https://www.instagram.com/reel/DIom5WzibId/?igsh=MTRsYnl4dXlpdTQ1MA=="
-            },
-            {
-              "label": "Новый пункт",
-              "url": "https://wa.me/905366140347?text=Здравствуйте!%20Интересует%20бронирование."
-            },
-            {
-              "label": "Новый пункт",
-              "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
-            }
-          ]
-        },
-        "styles": {
-          "padding": "15px",
-          "backgroundColor": "#3498db",
-          "color": "#ffffff",
-          "border": "none",
-          "cursor": "pointer",
-          "width": "100.66px",
-          "height": "60.147px"
-        },
-        "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
-      },
-      {
-        "id": "el-1757110699128",
-        "adminTitle": "Новый button",
-        "type": "button",
-        "content": {
-          "text": "Кнопка"
-        },
-        "styles": {
-          "padding": "15px",
-          "backgroundColor": "#3498db",
-          "color": "#ffffff",
-          "border": "none",
-          "cursor": "pointer"
-        }
-      },
-      {
-        "id": "el-1757113231718",
-        "adminTitle": "Новый videoBlock",
-        "type": "videoBlock",
-        "content": {
-          "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
-        },
-        "styles": {
-          "height": "300px"
-        }
+      "styles": {
+        "width": "393.22px",
+        "height": "211.31px"
       }
-    ]
-
-  }
+    },
+    {
+      "id": "el-1757109663931",
+      "adminTitle": "Новый reels",
+      "type": "reels",
+      "content": {
+        "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
+      },
+      "styles": {
+        "aspectRatio": "1/1"
+      }
+    },
+    {
+      "id": "el-1757109752168",
+      "adminTitle": "Новый videoBlock",
+      "type": "videoBlock",
+      "content": {
+        "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
+      },
+      "styles": {}
+    },
+    {
+      "id": "el-1757109785397",
+      "adminTitle": "Новый externalBlock",
+      "type": "externalBlock",
+      "content": {
+        "url": "https://znamenskiialeksei.github.io/marmarisyachting/2RouteVasilisa.html"
+      },
+      "styles": {
+        "width": "397.684px",
+        "height": "515.476px"
+      }
+    },
+    {
+      "id": "el-1757110523004",
+      "adminTitle": "Новый button",
+      "type": "button",
+      "content": {
+        "text": "Кнопка",
+        "hasDropdown": true,
+        "dropdownItems": [
+          {
+            "label": "Новый пункт",
+            "url": "https://360.bavariayachts.com/2021/tours/index_en.html?nav_id=5491-135719"
+          },
+          {
+            "label": "Новый пункт",
+            "url": "https://script.google.com/macros/s/AKfycbw_zW9cCs6adluPNaVVm6spv16UwmQ4vAvvFSo5cenzsE8kpJnBAyktHy4zZaIeac_-VA/exec?page=route2"
+          },
+          {
+            "label": "Новый пункт",
+            "url": "https://www.instagram.com/reel/DIom5WzibId/?igsh=MTRsYnl4dXlpdTQ1MA=="
+          },
+          {
+            "label": "Новый пункт",
+            "url": "https://wa.me/905366140347?text=Здравствуйте!%20Интересует%20бронирование."
+          },
+          {
+            "label": "Новый пункт",
+            "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
+          }
+        ]
+      },
+      "styles": {
+        "padding": "15px",
+        "backgroundColor": "#3498db",
+        "color": "#ffffff",
+        "border": "none",
+        "cursor": "pointer",
+        "width": "100.66px",
+        "height": "60.147px"
+      },
+      "url": "https://t.me/marmarisyachtingru?text=Здравствуйте!%20Интересует%20бронирование."
+    },
+    {
+      "id": "el-1757110699128",
+      "adminTitle": "Новый button",
+      "type": "button",
+      "content": {
+        "text": "Кнопка"
+      },
+      "styles": {
+        "padding": "15px",
+        "backgroundColor": "#3498db",
+        "color": "#ffffff",
+        "border": "none",
+        "cursor": "pointer"
+      }
+    },
+    {
+      "id": "el-1757113231718",
+      "adminTitle": "Новый videoBlock",
+      "type": "videoBlock",
+      "content": {
+        "url": "https://1drv.ms/v/c/2919ff56cb24dc70/IQSe6WT-_Nt4QYem_P3qEx_3Abn7W0p9009H02uPVTxShdI"
+      },
+      "styles": {
+        "height": "300px"
+      }
+    }
+  ]
+}
